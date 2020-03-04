@@ -16,8 +16,9 @@ https://media-exp1.licdn.com/dms/image/C4D12AQERITntJx0hOg/article-inline_image-
 From Dashboard in PowerBi
 According to this Analysis in the First Quarter of 2019 Enterprise startups were successful to raise the funding mostly. 
 How much they have raised and in which regions and which time period?
+https://media-exp1.licdn.com/dms/image/C4D12AQFD4fWalOCQ6w/article-inline_image-shrink_1500_2232/0?e=1588809600&v=beta&t=h0X-i_4CXcTMy-HKR1ka1tG5V1loGRBuU2i8cb-mm2U
 
-No alt text provided for this image
+
 if we Analyse the Enterprise category we can see the regions globally and it has raised $9.63 Billion, But if we break this down to 
 monthly Analysis from the donut chart we can see that in January they were able to raise $6.2 Billion, which make 12.8% of the total 
 amount. When we move to February we see a huge drop from January which is $1.44 Billion, which is 2.97% so from 12.8% to 2.97%, but 
@@ -27,7 +28,7 @@ Enterprise startups were mostly founded in North America and in Europe. Well, th
 Fintech was the second most favorite but this was a short analysis. Now the question is in which round the Startups make more funding 
 and catch the eyes of investors.
 
-No alt text provided for this image
+https://media-exp1.licdn.com/dms/image/C4D12AQGwmZrke7ETPw/article-inline_image-shrink_1000_1488/0?e=1588809600&v=beta&t=oxD-PMAKCnEze1wAF3YwPELdoGk4uKv8p_Nmk7cIJ-w
 
 
 If we are talking about the rounds because every startup is going through different rounds that attract the investors so if we look at 
