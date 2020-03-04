@@ -11,6 +11,7 @@ but according to my research and analysis, we bring great ideas but with no sale
 company and every investor sees what they will get is this idea has potential, how long they will survive even if there are the same 
 category of a successful company running why still we invest? To look for some of these questions i tried to analyze and visualize this 
 below image in PowerBI, i couldn't share the live dashboard, I will try to give a short brief.
+https://media-exp1.licdn.com/dms/image/C4D12AQERITntJx0hOg/article-inline_image-shrink_1500_2232/0?e=1588809600&v=beta&t=6eTBZ0E0wVmTLDr523NeKd7S5bTz6OOF0mdpfojRVA0
 
 From Dashboard in PowerBi
 According to this Analysis in the First Quarter of 2019 Enterprise startups were successful to raise the funding mostly. 
